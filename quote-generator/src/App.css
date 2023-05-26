@@ -1,0 +1,22 @@
+.quote-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  width: 33vw;
+  height: 33vh;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:royalblue;
+}
+
+.button-box {
+  margin: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote-button {
+  margin-left: 2%;
+  margin-right: 2%;
+}
